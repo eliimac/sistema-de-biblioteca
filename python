@@ -39,6 +39,8 @@ terror = ['0 - O exorcista', '1 - It-a coisa ', '2 - Cemiterio', '3 - Dracula', 
 
 outros = ['0 - Introdução à psicologia', '1 - O poder do hábito', '2 - O mal-estar na civilização', '3 - O animal social', '4 - Inteligência emocional', '5 - O homem que confundiu sua esposa com um chapéu', '6 - Mulheres que amam demais', '7 - Teoria das personalidades', '8 - O livro vermelho', '9 - Poderosa mente']
 
+você poderia fazer uma lista de dicionario que a chave seria os tipos de livros.  e falta vvc adicionar a parte do dicionario ao desafio
+
 livroE = []
 devolvidos = []
 
